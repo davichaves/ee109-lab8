@@ -1,3 +1,11 @@
+/********************************************
+*
+*  Name: Davi Rodrigues Chaves
+*  Section: W 3:30-5:00 PM
+*  Assignment: Lab 8 - Rotary Encoders
+*
+********************************************/
+
 #include <avr/io.h>
 #include <util/delay.h>
 #include "lcd.h"
