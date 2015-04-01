@@ -15,7 +15,7 @@
 void init_ports(void);
 
 int main(void) {
-    //sei(); // Enable interrupts
+    sei(); // Enable interrupts
     init_ports();
     init_lcd();
     writecommand(1); //clear LCD
